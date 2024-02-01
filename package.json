@@ -1,6 +1,6 @@
 {
   "name": "my-resume",
-  "homepage": "https://inanilsson.github.io/my-resume/",
+  "homepage": "https://inanilsson.github.io/my-resume",
   "private": false,
   "version": "0.0.0",
   "type": "module",
@@ -26,7 +26,7 @@
     "@vitejs/plugin-react": "^3.1.0",
     "gh-pages": "^6.1.1",
     "github-pages": "^0.1.0",
-    "react-scripts": "5.0.0",
+    "react-scripts": "^3.0.1",
     "typescript": "^4.9.3",
     "vite": "^4.1.0"
   }
