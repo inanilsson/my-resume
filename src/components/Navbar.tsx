@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, SetStateAction } from "react";
 import { Navbar, Container, Nav, NavDropdown } from "react-bootstrap";
 import logo from "../assets/img/name-logo.png";
 import navIcon1 from "../assets/img/nav-icon1.svg";
@@ -22,7 +22,7 @@ export const NavBar = () => {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
-  const onUpdateActiveLink = (value) => {
+  const onUpdateActiveLink = (value: SetStateAction<string>) => {
     setActiveLink(value);
   };
 
