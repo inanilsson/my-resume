@@ -79,9 +79,9 @@ export const Experiences = () => {
                             vanligtvis jobbar 11:30 till 23:30) och inte vara
                             rädd för att ställa frågor till mer erfarna
                             kollegor. När det gäller tidningar som ska tryckas
-                            och distribueras gäller det att allting är korrekt
-                            när sidan skickas till tryckeriet, vilket har passat
-                            min noggrannhet utmärkt.
+                            och distribueras är det viktigt att allting är
+                            korrekt när sidan skickas till tryckeriet, vilket
+                            har passat min noggrannhet utmärkt.
                           </p>
                           <img src={bonnier}></img>
                         </div>

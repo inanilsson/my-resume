@@ -1,5 +1,5 @@
 import { useState, useEffect, SetStateAction } from "react";
-import { Navbar, Container, Nav, NavDropdown } from "react-bootstrap";
+import { Navbar, Container, Nav } from "react-bootstrap";
 import logo from "../assets/img/name-logo.png";
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import navIconCV from "../assets/img/CV-icon.png";

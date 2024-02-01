@@ -1,7 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import * as React from "react";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 import cpp from "../assets/img/cpp_logo.png";
@@ -49,8 +48,8 @@ export const Skills = () => {
                     <p>
                       Mina kunskaper kommer främst från min utbildning -
                       kandidatprogrammet inom Datateknik på Mittuniversitetet.
-                      Nedan har jag samlat de områden jag har jobbat med, och
-                      markerat hur jag har fått kunskapen.
+                      Nedan har jag samlat några av de områden jag har jobbat
+                      mest med, och markerat hur jag har fått kunskapen.
                     </p>
                   </div>
                 )}

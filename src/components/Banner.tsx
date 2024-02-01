@@ -65,13 +65,13 @@ export const Banner = () => {
                   </h1>
                   <p>
                     Hej och välkommen! Ina Nilsson heter jag och det här är mitt
-                    digitala CV. Jag har självklart ett klassikt CV också med
+                    digitala CV. Jag har självklart ett klassiskt CV också med
                     lite mer information som ni bland annat kan hitta uppe till
                     höger på skärmen.
                     <br />
                     <br />
-                    Mer om mig hittar ni längre ner på sidan. Ni kan även
-                    navigera dit med hjälp av länkarna här uppe.
+                    Mer om mig hittar ni längre ner på sidan. Ni kan navigera
+                    dit med hjälp av länkarna här uppe.
                   </p>
                   <button
                     onClick={() => {
